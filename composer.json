@@ -1,0 +1,22 @@
+{
+    "name": "veplex/components",
+    "description": "Basic components Veplex",
+    "require": {
+        "php": ">=7.2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus da Silva Lutz",
+            "email": "matheus.lutz@veplex.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "VeplexComponents\\VeplexComponentsServiceProvider"
+            ]
+        }
+    }
+}
