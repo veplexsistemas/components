@@ -2,7 +2,7 @@
     "name": "veplex/components",
     "description": "Basic components Veplex",
     "require": {
-        "php": ">=7.2.*"
+        "php": ">=7.2.1"
     },
     "license": "MIT",
     "authors": [
