@@ -12,6 +12,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "VeplexComponents\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
