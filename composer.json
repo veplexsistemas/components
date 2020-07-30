@@ -17,6 +17,9 @@
             "providers": [
                 "VeplexComponents\\VeplexComponentsServiceProvider"
             ]
+        },
+	"aliases": {
+            "VeplexComponents": "VeplexComponents\\VeplexComponentsServiceProvider"
         }
     }
 }
